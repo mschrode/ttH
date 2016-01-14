@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # extract the BDT distributions needed as inputs to combine
 
 import sys
